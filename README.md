@@ -20,4 +20,4 @@ Nosso **OBJETIVO** é bla bla bla
 - Descrever o Objetivo - *ALGUEM*
 
 ### Idéia inicial do Dashboard
-Nosso deshboard mostra *valores de alguma coisa relacionada a base de dados escolhida, etc*
+Nosso dashboard mostra *valores de alguma coisa relacionada a base de dados escolhida, etc*
